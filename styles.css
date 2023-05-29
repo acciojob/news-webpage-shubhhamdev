@@ -30,7 +30,7 @@ div {
   background-color: white;
   margin-bottom: 0px;
 }
-.ac{ 
+.latest-news-section{ 
 	width: auto;
 	border-radius: 20px;
   flex-basis: 30%;
@@ -39,7 +39,7 @@ div {
   margin-bottom: 30px;
 	text-align: center;
 }
-.bc{
+.Main-Article{
 	width: auto;
 	border-radius: 20px;
   flex-basis: 30%;
@@ -48,7 +48,7 @@ div {
   margin-bottom: 20px;
 	text-align: center;
 }
-.dc{
+.pictorial-news-section{
 	width: auto;
 	border-radius: 20px;
     flex-basis: 30%;
